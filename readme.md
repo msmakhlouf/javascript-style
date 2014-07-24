@@ -9,9 +9,10 @@
 2. `use strict`
 3. Use semicolons
 4. Strict equality (`!==` in favor of `!=`)
-5. Space after keywords and between arguments and operators
-6. Let your code document itself. Comments can often be avoided by employing better naming conventions
-7. Favor using existing libraries over re-inventing functionality
+5. Do not extend native object prototypes
+6. Space after keywords and between arguments and operators
+7. Let your code document itself. Comments can often be avoided by employing better naming conventions
+8. Favor using existing libraries over re-inventing functionality
 
 Have a reason if you're going to stray from the following recommendations.
 
