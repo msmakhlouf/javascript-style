@@ -1,7 +1,7 @@
 # JavaScript Style Guide (Best Practices)
 > How to write maintainable JavaScript applications.
 
-*To start using these guidelines in your project, see [Quick Start]().*
+*To start using these guidelines in your project, see [Quick Start](#quick-start).*
 
 ## Rules
 
