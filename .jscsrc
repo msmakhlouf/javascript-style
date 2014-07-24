@@ -74,7 +74,30 @@
 
   "disallowSpaceBeforePostfixUnaryOperators": true,
 
-  "requireSpaceBeforeBinaryOperators": true,
+  "requireSpaceBeforeBinaryOperators": [
+    "=",
+    ",",
+    "+",
+    "+=",
+    "-",
+    "-=",
+    "/",
+    "/=",
+    "*",
+    "*=",
+    "%",
+    "%=",
+    "==",
+    "===",
+    "!=",
+    "!=="
+    ">",
+    ">=",
+    "<",
+    "<=",
+    "&&",
+    "||"
+  ]
 
   "requireSpaceAfterBinaryOperators": true,
 
