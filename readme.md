@@ -1,6 +1,8 @@
 # JavaScript Style Guide (Best Practices)
 > How to write maintainable JavaScript applications.
 
+*To start using these guidelines in your project, see [Quick Start]().*
+
 ## Rules
 
 1. Be consistent
@@ -108,6 +110,29 @@ Rules and guidelines will easily be broken if the proper tooling isn't in place 
 - `.jscsrc` - [JavaScript Code Style checker](https://github.com/mdevils/node-jscs)
 
 It is worth the investment of your time to explore these tools, and integrate them into your editor and build process.
+
+## Quick Start
+
+You can start using this configuration right away with Yeoman by installing the [Javascript Style Generator](https://github.com/stephenplusplus/javascript-style).
+
+```sh
+$ npm install -g generator-javascript-style
+
+# cd to your project directory
+$ yo javascript-style
+
+Extracting stephenplusplus/javascript-style...
+Done!
+
+[?] Which direction shall we go? (Use arrow keys)
+❯ Install npm dependencies (jscs, jshint)
+  --------
+  Visit stephenplusplus/javascript-style
+  Visit EditorConfig.org
+  Visit JSHint.com
+  Visit JavaScript Code Style Checker
+  Visit idiomatic.js
+```
 
 ## Resources
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
