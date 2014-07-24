@@ -113,7 +113,7 @@ It is worth the investment of your time to explore these tools, and integrate th
 
 ## Quick Start
 
-You can start using this configuration right away with Yeoman by installing the [Javascript Style Generator](https://github.com/stephenplusplus/javascript-style).
+Start using this configuration right away with Yeoman by installing the [Javascript Style Generator](https://github.com/stephenplusplus/generator-javascript-style).
 
 ```sh
 $ npm install -g generator-javascript-style
